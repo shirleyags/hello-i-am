@@ -6,7 +6,7 @@ const Menu = () => {
     <header>
       <nav className="navegacao">
         <MenuLink to="/">
-          Início
+          Home
         </MenuLink>
         <MenuLink to="/sobremim">
           Sobre Mim
