@@ -1,4 +1,4 @@
-import "../Menu/Menu.css"
+import "components/Menu/Menu.css"
 import MenuLink from "../MenuLink"
 
 const Menu = () => {
